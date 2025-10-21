@@ -18,6 +18,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 ## 🔥 News
 
+* **[2025-10-21]** 🎉🎉 Our paper *"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"* has been **accepted by *IEEE International Conference on Data Engineering (ICDE)*!**
 * **[2025-09-21]** 🔥🔥 Finished building the benchmarks, datasets, and taxonomy for this repository.
 * **[2025-09-14]** 🔥🔥 Repository launched based on our survey paper to keep track of recent progress in LLM-based text-to-SQL.
 * **[2025-09-02]** 🎉🎉 Our paper *"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"* has been **accepted by *IEEE Transactions on Knowledge and Data Engineering (TKDE)*!**
@@ -242,7 +243,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 * ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL [[Paper](https://openreview.net/pdf?id=BAglD6NGy0)] [[Code](https://github.com/D2I-ai/Route)]
 * ![arXiv2024](https://img.shields.io/badge/arXiv2024-B31B1B) A Preview of XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL [[Paper](https://arxiv.org/pdf/2411.08599)] [[Code](https://github.com/XGenerationLab/XiYan-SQL)]
 * ![NAACL2025](https://img.shields.io/badge/NAACL2025-4682B4) MSc-SQL: Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation [[Paper](https://aclanthology.org/2025.naacl-long.107.pdf)] [[Code](https://github.com/layer6ai-labs/msc-sql)]
-* ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation [[Paper](https://arxiv.org/pdf/2502.12911)]
+* ![arXiv2025](https://img.shields.io/badge/ICDE2025-9370DB) Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation [[Paper](https://arxiv.org/pdf/2502.12911)]
 * ![Findings2024](https://img.shields.io/badge/EMNLP2024Findings-87CEFA) DTS-SQL: Decomposed Text-to-SQL with Small Large Language Models [[Paper](https://aclanthology.org/2024.findings-emnlp.481.pdf)] [[Code](https://github.com/MohammadrezaPourreza/DTS-SQL)]
 * ![COLING2025](https://img.shields.io/badge/COLING2025-00CED1) MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL [[Paper](https://aclanthology.org/2025.coling-main.36.pdf)] [[Code](https://github.com/wbbeyourself/MAC-SQL)]
 * ![NeurIPS202](https://img.shields.io/badge/NeurIPS2024Workshop-2E8B57) The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models [[Paper](https://openreview.net/pdf?id=fglyh5pa7d)] 
