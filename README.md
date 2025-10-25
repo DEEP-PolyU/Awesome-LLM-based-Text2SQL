@@ -271,8 +271,3 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
   year={2025}
 }
 ```
-
-
-
-
-
