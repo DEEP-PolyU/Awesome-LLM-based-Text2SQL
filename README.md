@@ -191,6 +191,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ### In-context Learning
 
+* ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) Agentar-Scale-SQL: Advancing Text-to-SQL through Orchestrated Test-Time Scaling  [[Paper](https://arxiv.org/pdf/2509.24403)] [[Code](https://github.com/antgroup/Agentar-Scale-SQL)]
 * ![EMNLP2025](https://img.shields.io/badge/EMNLP2025-00BFFF) LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL  [[Paper](https://arxiv.org/pdf/2503.18596)] [[Code](https://github.com/Satissss/LinkAlign)]
 * ![ICLR2025](https://img.shields.io/badge/ICLR2025Workshop-7CFC00) ReFoRCE: A Text-to-SQL Agent with Self-Refinement, Consensus Enforcement, and Column Exploration [[Paper](https://openreview.net/pdf?id=OuFIfDBwQd)] [[Code](https://github.com/Snowflake-Labs/ReFoRCE)]
 * ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning [[Paper](https://arxiv.org/pdf/2505.13271)] [[Code](https://github.com/CycloneBoy/csc_sql)]
