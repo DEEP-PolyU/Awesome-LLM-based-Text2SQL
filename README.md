@@ -239,6 +239,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ### Fine-tuning
 
+* ![VLDB2025](https://img.shields.io/badge/VLDB2025-800080) OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale  [[Paper](https://dl.acm.org/doi/10.14778/3749646.3749723)] [[Code](https://github.com/RUCKBReasoning/OmniSQL)]
 * ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) MARS-SQL: A multi-agent reinforcement learning framework for Text-to-SQL [[Paper](https://arxiv.org/pdf/2511.01008)] [[Code](https://github.com/YangHaolin0526/MARS-SQL)] 
 * ![ACL2025](https://img.shields.io/badge/ACL2025-1E90FF) SHARE: An SLM-based Hierarchical Action CorREction Assistant for Text-to-SQL [[Paper](https://aclanthology.org/2025.acl-long.552.pdf)] [[Code](https://github.com/quge2023/SHARE)] 
 * ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL [[Paper](https://openreview.net/pdf?id=BAglD6NGy0)] [[Code](https://github.com/D2I-ai/Route)]
