@@ -66,14 +66,14 @@ Before 2023, the focus is on a selection of representative traditional studies. 
 ## 📰 Surveys
 
 * ![TKDE](https://img.shields.io/badge/TKDE2025-FF6347) Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL [[Paper](https://ieeexplore.ieee.org/abstract/document/11160657)] [[Code]()]
-* ![CSUR2025](https://img.shields.io/badge/CSUR2025-3CB371) A Survey on Employing Large Language Models for Text-to-SQL Tasks [[Paper]()]
-* ![TKDE](https://img.shields.io/badge/TKDE2025-FF6347?style=flat) A Survey of Text-to-SQL in the Era of LLMs: Where are We, and Where are We Going? [[Paper]()]
-* ![TKDE](https://img.shields.io/badge/TKDE2024-FF6347?style=flat) Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey [[Paper]()]
-* ![arXiv2024](https://img.shields.io/badge/arXiv2024-B31B1B) Large Language Model Enhanced Text-to-SQL Generation: A Survey [[Paper]()]
-* ![VLDBJ2023](https://img.shields.io/badge/VLDBJ2023-4B0082) A Survey on Deep Learning Approaches for Text-to-SQL [[Paper]()]
-* ![VLDB2023](https://img.shields.io/badge/VLDB2023-800080) Natural Language Interfaces for Databases with Deep Learning [[Paper]()]
-* ![arXiv2022](https://img.shields.io/badge/arXiv2022-B31B1B) A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions [[Paper]()]
-* ![COLING2022](https://img.shields.io/badge/COLING2022-00CED1) Recent Advances in Text-to-SQL: A Survey of What We Have and What We Expect [[Paper]()]
+* ![CSUR2025](https://img.shields.io/badge/CSUR2025-3CB371) A Survey on Employing Large Language Models for Text-to-SQL Tasks [[Paper](https://dl.acm.org/doi/10.1145/3737873)]
+* ![TKDE](https://img.shields.io/badge/TKDE2025-FF6347?style=flat) A Survey of Text-to-SQL in the Era of LLMs: Where are We, and Where are We Going? [[Paper](https://ieeexplore.ieee.org/document/11095853)]
+* ![TKDE](https://img.shields.io/badge/TKDE2024-FF6347?style=flat) Natural Language Interfaces for Tabular Data Querying and Visualization: A Survey [[Paper](https://ieeexplore.ieee.org/document/11112886)]
+* ![arXiv2024](https://img.shields.io/badge/arXiv2024-B31B1B) Large Language Model Enhanced Text-to-SQL Generation: A Survey [[Paper](https://arxiv.org/pdf/2410.06011)]
+* ![VLDBJ2023](https://img.shields.io/badge/VLDBJ2023-4B0082) A Survey on Deep Learning Approaches for Text-to-SQL [[Paper](https://link.springer.com/article/10.1007/s00778-022-00776-8)]
+* ![VLDB2023](https://img.shields.io/badge/VLDB2023-800080) Natural Language Interfaces for Databases with Deep Learning [[Paper](https://www.vldb.org/pvldb/vol16/p3878-katsogiannis-meimarakis.pdf)]
+* ![arXiv2022](https://img.shields.io/badge/arXiv2022-B31B1B) A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions [[Paper](https://arxiv.org/pdf/2208.13629)]
+* ![COLING2022](https://img.shields.io/badge/COLING2022-00CED1) Recent Advances in Text-to-SQL: A Survey of What We Have and What We Expect [[Paper](https://arxiv.org/pdf/2208.10099)]
 
 ## 🏆 Benchmarks
 
