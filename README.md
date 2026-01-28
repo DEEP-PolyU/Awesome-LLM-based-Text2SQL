@@ -84,13 +84,12 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
 
 | Method/Model | Dev EX (%) | Test EX (%) | Paper/Code | Date |
 |--------------|------------|-------------|------------|------|
-| ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) AskData + GPT-4o | **77.64** | **81.95** | [[Paper](https://arxiv.org/pdf/2505.19988)] | 2025-03-11 |
-| ![arXiv2025](https://img.shields.io/badge/Proprietary-lightgray) Agentar-Scale-SQL | 74.90 | 81.67 | [[Paper](https://arxiv.org/pdf/2509.24403)] | 2025-09-25 |
+| ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) AskData + GPT-4o | **77.64** | **81.95** | [[Paper](https://arxiv.org/pdf/2505.19988)] | 2025-12-16 |
+| ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) Agentar-Scale-SQL | 74.90 | 81.67 | [[Paper](https://arxiv.org/pdf/2509.24403)] | 2025-09-25 |
 | ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) LongData-SQL | 74.32 | 77.53 | [<u>Proprietary</u>] | 2025-07-14 |
-| ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) CHASE-SQL + Gemini | 74.90 | 76.02 | [[Paper](https://openreview.net/pdf?id=CvGqMD5OtX)] | 2025-04-16 |
-| ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) JoyDataAgent-SQL | 74.25 | 75.74 | [[Report](https://github.com/jd-opensource/joyagent-jdgenie/blob/data_agent/README_DataAgent.md)] [[Code](https://github.com/jd-opensource/joyagent-jdgenie/tree/data_agent)] | 2025-09-22 |
-| ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) TCDataAgent-SQL | 74.12 | 75.74 | [[Report](https://cloud.tencent.com/developer/article/2537769)] | 2025-05-30 |
-| ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) Contextual-SQL | 73.50 | 75.63 | [[Report](https://contextual.ai/blog/open-sourcing-the-best-local-text-to-sql-system/)] [[Code](https://github.com/ContextualAI/bird-sql)] | 2025-02-27 |
+| ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) Zhiwen-Lingsi-Agent | 73.53 | 76.63 | [<u>Proprietary</u>] | 2026-01-02 |
+| ![arXiv2026](https://img.shields.io/badge/arXiv2026-B31B1B) DeepEye-SQL | 73.53 | 76.58 | [[Paper](https://arxiv.org/pdf/2510.17586)] | 2026-01-26 |
+| ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) Q-SQL | 72.99 | 76.47 | [[Report](https://www.notion.so/BIRD-v2-Memory-2bfe8bf30514801ba112f92ff20784e3)] | 2025-12-04 |
 
 ---
 
@@ -148,7 +147,8 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
 
 ### Original Datasets
 
-* ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) **BIRD-CRITIC** | SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications [[Paper]()] [[Code]()] [[Dataset]()]<br>
+* ![ICLR2026](https://img.shields.io/badge/ICLR2026-7CFC00) **BIRD-INTERACT** | BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions [[Paper](https://openreview.net/pdf?id=nHrYBGujps)] [[Code](https://github.com/bird-bench/BIRD-Interact)] [[Dataset](https://huggingface.co/datasets/birdsql/bird-interact-full)]<br>*Long-context, Interaction; #Example: 600; #DB: 95*
+* ![NeurIPS2025](https://img.shields.io/badge/NeurIPS2025-2E8B57) **BIRD-CRITIC** | SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications [[Paper](https://openreview.net/pdf?id=yRxXTdElLv)] [[Code](https://github.com/bird-bench/BIRD-CRITIC-1)] [[Dataset](https://huggingface.co/datasets/birdsql/livesqlbench-base-lite)]<br>
   *Knowledge-augmented, Long-context; #Example: 600; #DB: 95*
 * ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) **Spider2.0** | Spider 2.0: Evaluating Language Models on Real-world Enterprise Text-to-SQL Workflows [[Paper](https://openreview.net/pdf?id=XmProj9cPs)] [[Code](https://github.com/xlang-ai/Spider2)] [[Dataset](https://github.com/xlang-ai/Spider2/blob/main/spider2-lite/spider2-lite.jsonl)]<br>
   *Knowledge-augmented, Long-context; #Example: 632; #DB: 213*
