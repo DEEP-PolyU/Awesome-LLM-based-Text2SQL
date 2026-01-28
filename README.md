@@ -84,8 +84,8 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
 
 | Method/Model | Dev EX (%) | Test EX (%) | Paper/Code | Date |
 |--------------|------------|-------------|------------|------|
-| ![arXiv2025](https://img.shields.io/badge/Proprietary-lightgray) Agentar-Scale-SQL | 74.90 | **81.67** | [[Paper](https://arxiv.org/pdf/2509.24403)] | 2025-09-25 |
-| ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) AskData + GPT-4o | **76.14** | 80.88 | [[Paper](https://arxiv.org/pdf/2505.19988)] | 2025-03-11 |
+| ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) AskData + GPT-4o | **77.64** | **81.95** | [[Paper](https://arxiv.org/pdf/2505.19988)] | 2025-03-11 |
+| ![arXiv2025](https://img.shields.io/badge/Proprietary-lightgray) Agentar-Scale-SQL | 74.90 | 81.67 | [[Paper](https://arxiv.org/pdf/2509.24403)] | 2025-09-25 |
 | ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) LongData-SQL | 74.32 | 77.53 | [<u>Proprietary</u>] | 2025-07-14 |
 | ![ICLR2025](https://img.shields.io/badge/ICLR2025-7CFC00) CHASE-SQL + Gemini | 74.90 | 76.02 | [[Paper](https://openreview.net/pdf?id=CvGqMD5OtX)] | 2025-04-16 |
 | ![Proprietary](https://img.shields.io/badge/Proprietary-lightgray) JoyDataAgent-SQL | 74.25 | 75.74 | [[Report](https://github.com/jd-opensource/joyagent-jdgenie/blob/data_agent/README_DataAgent.md)] [[Code](https://github.com/jd-opensource/joyagent-jdgenie/tree/data_agent)] | 2025-09-22 |
