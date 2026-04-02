@@ -266,6 +266,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 * [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers)
 * [PremSQL](https://github.com/premAI-io/premsql) [![GitHub Repo stars](https://img.shields.io/github/stars/premAI-io/premsql?style=social)](https://github.com/premAI-io/premsql/stargazers)
 * [AI-for-Database](https://aifordatabase.com)
+* [SQLChat](https://github.com/sqlchat/sqlchat) [![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers)
 
 ## 📃 Citation
 
