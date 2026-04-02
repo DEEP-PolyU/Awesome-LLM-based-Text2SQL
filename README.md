@@ -265,7 +265,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers)
 * [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers)
 * [PremSQL](https://github.com/premAI-io/premsql) [![GitHub Repo stars](https://img.shields.io/github/stars/premAI-io/premsql?style=social)](https://github.com/premAI-io/premsql/stargazers)
-* [AI-for-Database](https://aifordatabase.com) — Freemium product that applies LLM-based NL-to-SQL so anyone can query any database in plain English, build self-refreshing dashboards, and set up data-triggered workflows.
+* [AI-for-Database](https://aifordatabase.com)
 
 ## 📃 Citation
 
