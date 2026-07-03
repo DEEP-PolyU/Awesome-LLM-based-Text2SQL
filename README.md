@@ -191,6 +191,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 
 ### In-context Learning
 
+* ![arXiv2026](https://img.shields.io/badge/arXiv2025-B31B1B) Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents [[Paper](https://arxiv.org/pdf/2606.19319)]
 * ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) DeepEye-SQL: A Software-Engineering-Inspired Text-to-SQL Framework [[Paper](https://arxiv.org/pdf/2510.17586)]
 * ![arXiv2025](https://img.shields.io/badge/arXiv2025-B31B1B) Agentar-Scale-SQL: Advancing Text-to-SQL through Orchestrated Test-Time Scaling [[Paper](https://arxiv.org/pdf/2509.24403)] [[Code](https://github.com/antgroup/Agentar-Scale-SQL)]
 * ![EMNLP2025](https://img.shields.io/badge/EMNLP2025-00BFFF) LinkAlign: Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL [[Paper](https://arxiv.org/pdf/2503.18596)] [[Code](https://github.com/Satissss/LinkAlign)]
