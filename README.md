@@ -18,6 +18,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 ## 🔥 News
 
+* **[2026-5-16]** 🎉🎉 Our paper *"ErrorLLM: Modeling SQL Errors for Text-to-SQL Refinement"* has been ***accepted by ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*!**
 * **[2025-10-21]** 🎉🎉 Our paper *"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"* has been **accepted by *IEEE International Conference on Data Engineering (ICDE)*!**
 * **[2025-09-21]** 🔥🔥 Finished building the benchmarks, datasets, and taxonomy for this repository.
 * **[2025-09-14]** 🔥🔥 Repository launched based on our survey paper to keep track of recent progress in LLM-based text-to-SQL.
