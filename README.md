@@ -47,7 +47,7 @@ A user asks a question about football leagues. The LLM takes this question toget
 >    - [Original Datasets](#original-datasets)
 >    - [Post-annotated Datasets](#post-annotated-datasets)
 >  - **[🪴 Taxonomy](#-taxonomy)**
->    - [In-cotext Learning](#in-context-learning)
+>    - [In-context Learning](#in-context-learning)
 >    - [Fine-tuning](#fine-tuning)
 >  - **[📦 Projects](#-projects)**
 >  - **[📃 Citation](#-citation)**
