@@ -269,6 +269,7 @@ The implementation of recent LLM-based text-to-SQL methods primarily relies on i
 * [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub) [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/DB-GPT-Hub?style=social)](https://github.com/eosphoros-ai/DB-GPT-Hub/stargazers)
 * [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/premAI-io/premsql/stargazers)
 * [PremSQL](https://github.com/premAI-io/premsql) [![GitHub Repo stars](https://img.shields.io/github/stars/premAI-io/premsql?style=social)](https://github.com/premAI-io/premsql/stargazers)
+* [PolicyStrata](https://github.com/raintree-technology/policystrata) [![GitHub Repo stars](https://img.shields.io/github/stars/raintree-technology/policystrata?style=social)](https://github.com/raintree-technology/policystrata/stargazers)
 * [AI-for-Database](https://aifordatabase.com)
 * [SQLChat](https://github.com/sqlchat/sqlchat) [![GitHub Repo stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers)
 
