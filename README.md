@@ -23,7 +23,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 * **[2025-09-21]** 🔥🔥 Finished building the benchmarks, datasets, and taxonomy for this repository.
 * **[2025-09-14]** 🔥🔥 Repository launched based on our survey paper to keep track of recent progress in LLM-based text-to-SQL.
 * **[2025-09-02]** 🎉🎉 Our paper *"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"* has been **accepted by *IEEE Transactions on Knowledge and Data Engineering (TKDE)*!**
-* **[2025-05-01]** 🎉🎉 Our paper *"Structure-Guided Large Language Models for Text-to-SQL Generation"* has been **accepted by *International Conference of Machine Learning (ICML)*!**
+* **[2025-05-01]** 🎉🎉 Our paper *"Structure-Guided Large Language Models for Text-to-SQL Generation"* has been **accepted by *International Conference on Machine Learning (ICML)*!**
 
 ---
 
@@ -180,7 +180,7 @@ In the era of LLMs, two benchmarks and their variants/extensions are widely reco
   *Context-dependent; Splitting example into sub-examples*
 * ![EMNLP2021](https://img.shields.io/badge/EMNLP2021-00BFFF) **Spider-DK** | Exploring Underexplored Limitations of Cross-Domain Text-to-SQL Generalization [[Paper](https://aclanthology.org/2021.emnlp-main.702.pdf)] [[Code](https://github.com/ygan/Spider-DK)]<br>*Knowledge-augmented; Adding domain knowledge*
 *  ![ACL2021](https://img.shields.io/badge/ACL2021-1E90FF) **Spider-SYN** | Towards Robustness of Text-to-SQL Models against Synonym Substitution [[Paper](https://aclanthology.org/2021.acl-long.195.pdf)] [[Code](https://github.com/ygan/Spider-Syn)]<br>*Knowledge-augmented; Adding domain knowledge*
-* ![Findings2020](https://img.shields.io/badge/EMNLP2020Findings-87CEFA) **Spider-Vietnames** | A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese [[Paper](https://aclanthology.org/2020.findings-emnlp.364.pdf)] [[Code](https://github.com/VinAIResearch/ViText2SQL)]<br>
+* ![Findings2020](https://img.shields.io/badge/EMNLP2020Findings-87CEFA) **Spider-Vietnamese** | A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese [[Paper](https://aclanthology.org/2020.findings-emnlp.364.pdf)] [[Code](https://github.com/VinAIResearch/ViText2SQL)]<br>
   *Cross-lingual; Vietnamese version of Spider*
 * ![NAACL2021](https://img.shields.io/badge/NAACL2021-4682B4) **Spider-Realistic** | Structure-Grounded Pretraining for Text-to-SQL [[Paper](https://aclanthology.org/2021.naacl-main.105.pdf)] [[Dataset](https://zenodo.org/records/5205322)]<br>*Robustness; Removing column names in question*
 * ![EMNLP2019](https://img.shields.io/badge/EMNLP2019-00BFFF) **CSpider** | A Pilot Study for Chinese SQL Semantic Parsing [[Paper](https://aclanthology.org/D19-1377.pdf)] [[Code](https://github.com/taolusi/chisp)]<br>*Cross-lingual; Chinese version of Spider*
